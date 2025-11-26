@@ -32,8 +32,8 @@ This project is a Shopify Embedded App built with Laravel 11, Inertia.js, React,
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/SubashKhanal37/ShopifyAssignment.git
+   cd ShopifyAssignment
    ```
 
 2. **Install PHP dependencies:**
